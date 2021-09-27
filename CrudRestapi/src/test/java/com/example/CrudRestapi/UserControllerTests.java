@@ -24,7 +24,7 @@ import static org.mockito.Mockito.when;
 class UserControllerTests {
 
 
-	private Object ResponseEntity;
+
 
 	@Test
 	void contextLoads() {
